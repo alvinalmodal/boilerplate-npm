@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alvin B. Almodal",
+	"description": "An API and Microservices project for FreeCodeCamp.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
