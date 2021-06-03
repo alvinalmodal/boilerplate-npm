@@ -3,6 +3,7 @@
 	"author": "Alvin B. Almodal",
 	"description": "An API and Microservices project for FreeCodeCamp.",
 	"keywords": [ "api", "microservices", "freecodecamp", "Alvin B. Almodal", "Full-Stack Engineer" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
